@@ -1,0 +1,5 @@
+.env
+/documentation
+/node_modules
+/.vscode
+/__MACOSX
